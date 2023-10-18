@@ -1,4 +1,4 @@
-# decentralized company ownership & equity management system
+# Decentralized Ownership & Equity Management System
 
 * **Status:** Open (anyone is allowed to apply)
 * **Proposer:** parkerqi
