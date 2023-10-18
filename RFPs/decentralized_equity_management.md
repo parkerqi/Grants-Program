@@ -1,10 +1,7 @@
-# Title of the RFP Proposal
+# decentralized company ownership & equity management system
 
-* **Status:** Open (anyone is allowed to apply) / Closed (invited respondents only) / Implemented (finished)
-* **Proposer:** GitHub username
-* **Your Project(s):** [optional]: Link(s)
-* **Projects you think this work could be useful for** [optional]: Link(s)
-* **Teams/People that could deliver the RFP** [optional]: Link(s)
+* **Status:** Open (anyone is allowed to apply)
+* **Proposer:** parkerqi
 
 ## Project Description :page_facing_up: 
 
